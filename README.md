@@ -1,4 +1,4 @@
-# tetricode.ai
+# startupcde.ai
 
 ## startupcode / 스타트업코드
 
